@@ -5,7 +5,7 @@ var quiz = [
       respuesta: 'marte',
     },
     {
-      pregunta: 'Qué planeta usa bijouterie?',
+      pregunta: 'Qué planeta usa bijouteri?',
       respuesta: 'saturno',
     },
     {
